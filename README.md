@@ -1,8 +1,8 @@
 # Deepfried Chips
 
-Half-Life Enjoyer, SCP Fan
-Community manager for scp containment breach multiplayer
-Overthinker
+- Half-Life Enjoyer, SCP Fan
+- Community manager for scp containment breach multiplayer
+- Overthinker
 
 [![Deepfreid-Chips's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepfried-Chips&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Deepfried-Chips/)
 
