@@ -13,5 +13,6 @@ My languages:
 [![JS](https://img.shields.io/badge/JS-000000?logo=Javascript&style=flat-square)](https://github.com/Deepfried-Chips)
 [![TS](https://img.shields.io/badge/TS-000000?logo=Typescript&style=flat-square)](https://github.com/Deepfried-Chips)
 [![Svelte](https://img.shields.io/badge/Svelte-000000?logo=Svelte&style=flat-square)](https://github.com/Deepfried-Chips)
+[![Lua](https://img.shields.io/badge/Lua-000000?logo=Lua&style=flat-square)](https://github.com/Deepfried-Chips)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepfried-Chips&show_icons=true&theme=github_dark&count_private=true)](https://github.com/Deepfried-Chips/)
