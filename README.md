@@ -8,6 +8,7 @@
 [![Deepfried-Chips's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepfried-Chips&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Deepfried-Chips/)
 
 My languages:
+
 [![Go](https://img.shields.io/badge/Go-000000?logo=Go&style=flat-square)](https://github.com/Deepfried-Chips)
 [![JS](https://img.shields.io/badge/JS-000000?logo=Javascript&style=flat-square)](https://github.com/Deepfried-Chips)
 [![TS](https://img.shields.io/badge/TS-000000?logo=Typescript&style=flat-square)](https://github.com/Deepfried-Chips)
