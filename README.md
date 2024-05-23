@@ -1,10 +1,14 @@
 # Deepfried Chips
 
-- Half-Life Enjoyer, SCP Fan
-- Community manager for scp containment breach multiplayer
-- Overthinker
+Hobbyist programmer trying to do their best
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8E6XPY)
+Must have with any programmer:
+
+- Heap of unfinished projects
+- One thing they always want to do but never have the time to
+- Utterly failed attempt at monetizing their work
+
+![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8E6XPY)
 
 [![Deepfried-Chips's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepfried-Chips&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Deepfried-Chips/)
 
