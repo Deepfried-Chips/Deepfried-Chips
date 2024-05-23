@@ -8,7 +8,7 @@ Must have with any programmer:
 - One thing they always want to do but never have the time to
 - Utterly failed attempt at monetizing their work
 
-![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8E6XPY)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8E6XPY)
 
 [![Deepfried-Chips's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepfried-Chips&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Deepfried-Chips/)
 
